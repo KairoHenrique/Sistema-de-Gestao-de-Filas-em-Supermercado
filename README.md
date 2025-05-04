@@ -46,7 +46,7 @@ O operador pode abrir/fechar caixas, realocar clientes de caixas fechados e cham
 ---
 
 ## Estrutura do Projeto
-
+```
 ├── .gitignore
 ├── Trabalho2_2024.pdf # Enunciado e documentação da proposta
 ├── caixa.h # Declarações da struct Caixa e funções de gerenciamento
@@ -56,7 +56,7 @@ O operador pode abrir/fechar caixas, realocar clientes de caixas fechados e cham
 ├── filaPrioridade.h # Protótipos de enfileirar/desenfileirar com prioridade
 ├── filaPrioridade.c # Implementação de fila prioritária usando listas ligadas
 ├── main.c # Interface de menu e loop principal
-
+```
 
 ---
 
